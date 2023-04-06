@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1680715606 source:e:\codes\embedded\flattening_linked_list\main.c
+	<stdio.h>
+	<stdlib.h>
+	"FlattenLL.h"
+
+1680717654 source:e:\codes\embedded\flattening_linked_list\flattenll.c
+	"FlattenLL.h"
+
+1680715606 e:\codes\embedded\flattening_linked_list\flattenll.h
+	<stdio.h>
+	<stdlib.h>
+
